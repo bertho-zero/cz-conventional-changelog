@@ -1,6 +1,6 @@
 {
   "name": "@openagenda/cz-conventional-changelog",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
